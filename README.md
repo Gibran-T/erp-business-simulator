@@ -44,3 +44,13 @@ flowchart TD
     F --> G[Dispatch]
     G --> H[Billing]
 ```
+
+---
+
+## 📅 Changelog
+
+### April 2026
+- Added critical bug report: Negative inventory allowed during stock adjustment
+- Expanded boundary value test coverage for inventory module
+- Improved QA strategy documentation with risk-based testing approach
+- Added business impact analysis for procurement validation failures
